@@ -1,7 +1,9 @@
 .idea
 *.iml
+hosts
 myhosts
 blacklist
+blocklist
 whitelist
 hosts-*
 /web.config
